@@ -31,4 +31,7 @@ Pulls back all detailed mailing information and loan information for loans. Incl
 ### LoanTapeInforForm.sql
 Pulls back information about the tape being loaned out. Includes basic identifying information about the loan recipient, ID of the loaned tape, the title, copy number, and T-number (call number) created for the loan/edited testimony. 
 
+## FormstoTables.xlsx
+An Excel spreadsheet listing the fields and their mappings to tables in the forms for reference. 
+
 
